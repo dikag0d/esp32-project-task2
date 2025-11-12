@@ -94,7 +94,7 @@ Beberapa task seperti tombol (Button) diberi prioritas lebih tinggi untuk memast
 ---
 
 ## Hasil Percobaan
-![Hasil Percobaan ALL PERIPHERAL](../assets/Percobaan_All_Peripheral.gif)
+![Hasil Percobaan ALL PERIPHERAL](./assets/Percobaan_All_Peripheral.gif)
 
 Semua komponen berjalan secara bersamaan tanpa saling mengganggu.  
 LED berkedip, buzzer berbunyi periodik, nilai potensiometer berubah sesuai putaran, servo bergerak, stepper berputar, OLED menampilkan data, dan tombol merespon input secara real-time.
