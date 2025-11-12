@@ -1,7 +1,5 @@
 # Percobaan ALL PERIPHERAL – FreeRTOS pada ESP32-S3
-Andika Nugraha 
-322360010
-
+3223600010-Andika Nugraha
 ## Tujuan
 Percobaan ini bertujuan untuk memahami bagaimana **setiap peripheral** pada sistem dapat dijalankan **secara bersamaan** menggunakan *multitasking FreeRTOS* di mikrokontroler **ESP32-S3**.  
 Melalui percobaan ini, mahasiswa dapat mempelajari cara kerja sistem multitasking yang sesungguhnya, pembagian beban kerja antar core (Core 0 dan Core 1), serta bagaimana prioritas task memengaruhi performa sistem.
